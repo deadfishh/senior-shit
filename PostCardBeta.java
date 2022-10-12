@@ -1,3 +1,10 @@
+/*
+* @author deadfishh
+*
+* this is the beta test of the personality test that i wrote for ap lit
+* i'm to lazy to make only this one private so just don't look at it
+*/
+
 import java.awt.Color;
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
